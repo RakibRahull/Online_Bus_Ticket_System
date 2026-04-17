@@ -1,0 +1,202 @@
+[
+    {
+        "id": "391",
+        "ville": "Zeubelemok",
+        "region": "7"
+    },
+    {
+        "id": "392",
+        "ville": "Zinat",
+        "region": "1"
+    },
+    {
+        "id": "393",
+        "ville": "Dhaka",
+        "region": "Dhaka"
+    },
+    {
+        "id": "394",
+        "ville": "Chittagong",
+        "region": "Chittagong"
+    },
+    {
+        "id": "395",
+        "ville": "Khulna",
+        "region": "Khulna"
+    },
+    {
+        "id": "396",
+        "ville": "Rajshahi",
+        "region": "Rajshahi"
+    },
+    {
+        "id": "397",
+        "ville": "Sylhet",
+        "region": "Sylhet"
+    },
+    {
+        "id": "398",
+        "ville": "Barisal",
+        "region": "Barisal"
+    },
+    {
+        "id": "399",
+        "ville": "Rangpur",
+        "region": "Rangpur"
+    },
+    {
+        "id": "400",
+        "ville": "Comilla",
+        "region": "Chittagong"
+    },
+    {
+        "id": "401",
+        "ville": "Narayanganj",
+        "region": "Dhaka"
+    },
+    {
+        "id": "402",
+        "ville": "Gazipur",
+        "region": "Dhaka"
+    },
+    {
+        "id": "403",
+        "ville": "Cox's Bazar",
+        "region": "Chittagong"
+    },
+    {
+        "id": "404",
+        "ville": "Jessore",
+        "region": "Khulna"
+    },
+    {
+        "id": "405",
+        "ville": "Mymensingh",
+        "region": "Mymensingh"
+    },
+    {
+        "id": "406",
+        "ville": "Bogra",
+        "region": "Rajshahi"
+    },
+    {
+        "id": "407",
+        "ville": "Dinajpur",
+        "region": "Rangpur"
+    },
+    {
+        "id": "408",
+        "ville": "Tangail",
+        "region": "Dhaka"
+    },
+    {
+        "id": "409",
+        "ville": "Jamalpur",
+        "region": "Mymensingh"
+    },
+    {
+        "id": "410",
+        "ville": "Pabna",
+        "region": "Rajshahi"
+    },
+    {
+        "id": "411",
+        "ville": "Nawabganj",
+        "region": "Rajshahi"
+    },
+    {
+        "id": "412",
+        "ville": "Sirajganj",
+        "region": "Rajshahi"
+    },
+    {
+        "id": "413",
+        "ville": "Narsingdi",
+        "region": "Dhaka"
+    },
+    {
+        "id": "414",
+        "ville": "Saidpur",
+        "region": "Rangpur"
+    },
+    {
+        "id": "415",
+        "ville": "Feni",
+        "region": "Chittagong"
+    },
+    {
+        "id": "416",
+        "ville": "Brahmanbaria",
+        "region": "Chittagong"
+    },
+    {
+        "id": "417",
+        "ville": "Kushtia",
+        "region": "Khulna"
+    },
+    {
+        "id": "418",
+        "ville": "Satkhira",
+        "region": "Khulna"
+    },
+    {
+        "id": "419",
+        "ville": "Habiganj",
+        "region": "Sylhet"
+    },
+    {
+        "id": "420",
+        "ville": "Moulvibazar",
+        "region": "Sylhet"
+    },
+    {
+        "id": "421",
+        "ville": "Chandpur",
+        "region": "Chittagong"
+    },
+    {
+        "id": "422",
+        "ville": "Sherpur",
+        "region": "Mymensingh"
+    },
+    {
+        "id": "423",
+        "ville": "Madaripur",
+        "region": "Dhaka"
+    },
+    {
+        "id": "424",
+        "ville": "Kishoreganj",
+        "region": "Dhaka"
+    },
+    {
+        "id": "425",
+        "ville": "Lalmonirhat",
+        "region": "Rangpur"
+    },
+    {
+        "id": "426",
+        "ville": "Panchagarh",
+        "region": "Rangpur"
+    },
+    {
+        "id": "427",
+        "ville": "Thakurgaon",
+        "region": "Rangpur"
+    },
+    {
+        "id": "428",
+        "ville": "Barguna",
+        "region": "Barisal"
+    },
+    {
+        "id": "429",
+        "ville": "Patuakhali",
+        "region": "Barisal"
+    },
+    {
+        "id": "430",
+        "ville": "Bhola",
+        "region": "Barisal"
+    }
+]
